@@ -11,9 +11,17 @@
 
 - 💬 Ask me about **MC:BE Modding and Reverse Engineering**
 
-- 📫 How to reach me **Discord: TTF_fog**
+- 📫 **Discord: TTF_fog**
 
-- Experience
+-Experience
+```txt
+API Dev @ Flarial (JS)
+https://flarial.xyz
+Ex-Developer @ NGGM (PY)
+Verified Bot, 96+ servers
+Ex Client Developer @ Lyra (CPP) discontinued
+>50,000 users served (est.)
+```
 - Recent Activity (1 Week):
  <!--START_SECTION:waka-->
 
