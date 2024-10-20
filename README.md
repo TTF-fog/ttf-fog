@@ -13,7 +13,7 @@
 
 - 📫 **Discord: TTF_fog**
 
--Experience
+- Experience
 ```txt
 API Dev @ Flarial (JS)
 https://flarial.xyz
