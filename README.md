@@ -26,10 +26,10 @@ Ex Client Developer @ Lyra (CPP) discontinued
  <!--START_SECTION:waka-->
 
 ```txt
-Rust             4 hrs 6 mins    █████████████████▓░░░░░░░   71.24 %
-Python           1 hr 30 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.27 %
-Text             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Rust             4 hrs 6 mins    ████████████████████████▒   96.71 %
+Text             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
