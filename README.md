@@ -26,8 +26,7 @@ Ex Client Developer @ Lyra (CPP) discontinued
  <!--START_SECTION:waka-->
 
 ```txt
-Rust   2 hrs 25 mins   █████████████████████████   100.00 %
-TOML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Rust   1 hr 6 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
