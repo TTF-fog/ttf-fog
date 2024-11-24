@@ -5,6 +5,9 @@
 
 - 🌱 I’m currently learning **Flask and Rust**
 
+- ALT: [alt](https://github.com/ttffog)
+- 
+
 - 🤝 I’m looking for help with **Three.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TTF-fog](https://github.com/TTF-fog)
