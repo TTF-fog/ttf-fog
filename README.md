@@ -29,11 +29,9 @@ Ex Client Developer @ Lyra (CPP) discontinued
  <!--START_SECTION:waka-->
 
 ```txt
-C++          1 hr 18 mins    █████████████████████▒░░░   85.78 %
-TypeScript   11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+C++         44 mins         ████████████████████████▓   98.82 %
+Batchfile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+HTML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
