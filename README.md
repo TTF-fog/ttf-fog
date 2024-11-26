@@ -29,9 +29,7 @@ Ex Client Developer @ Lyra (CPP) discontinued
  <!--START_SECTION:waka-->
 
 ```txt
-C++         44 mins         ████████████████████████▓   98.82 %
-Batchfile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-HTML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
