@@ -23,7 +23,7 @@ https://flarial.xyz
 Ex-Developer @ NGGM (PY)
 Verified Bot, 96+ servers
 Ex Client Developer @ Lyra (CPP) discontinued
->50,000 users served (est.)
+>70,000 users served (est.)
 ```
 - Recent Activity (1 Week):
  <!--START_SECTION:waka-->
