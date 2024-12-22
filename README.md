@@ -29,7 +29,8 @@ Ex Client Developer @ Lyra (CPP) discontinued
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   0 secs          ████████████████▒░░░░░░░░   64.81 %
+INI      0 secs          ████████▓░░░░░░░░░░░░░░░░   35.19 %
 ```
 
 <!--END_SECTION:waka-->
